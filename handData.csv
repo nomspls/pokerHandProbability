@@ -1,0 +1,1001 @@
+Tries,outcome
+1,Two pair
+2,High card
+3,One pair
+4,Flush
+5,One pair
+6,One pair
+7,Two pair
+8,One pair
+9,One pair
+10,One pair
+11,Two pair
+12,One pair
+13,One pair
+14,Two pair
+15,Four of a kind
+16,One pair
+17,One pair
+18,Two pair
+19,Two pair
+20,Two pair
+21,Two pair
+22,Three of a kind
+23,One pair
+24,Two pair
+25,Two pair
+26,One pair
+27,One pair
+28,High card
+29,Full house
+30,One pair
+31,One pair
+32,Two pair
+33,Full house
+34,One pair
+35,One pair
+36,High card
+37,One pair
+38,High card
+39,Straight
+40,One pair
+41,One pair
+42,Two pair
+43,One pair
+44,One pair
+45,One pair
+46,High card
+47,One pair
+48,Two pair
+49,Two pair
+50,Two pair
+51,High card
+52,One pair
+53,Two pair
+54,One pair
+55,One pair
+56,Two pair
+57,High card
+58,Flush
+59,One pair
+60,One pair
+61,One pair
+62,Two pair
+63,One pair
+64,High card
+65,One pair
+66,High card
+67,Two pair
+68,High card
+69,High card
+70,One pair
+71,One pair
+72,Three of a kind
+73,High card
+74,One pair
+75,Two pair
+76,One pair
+77,Two pair
+78,One pair
+79,One pair
+80,Two pair
+81,Two pair
+82,High card
+83,One pair
+84,Three of a kind
+85,High card
+86,One pair
+87,High card
+88,Two pair
+89,Two pair
+90,One pair
+91,Two pair
+92,One pair
+93,One pair
+94,One pair
+95,One pair
+96,One pair
+97,High card
+98,One pair
+99,One pair
+100,One pair
+101,One pair
+102,One pair
+103,One pair
+104,One pair
+105,Two pair
+106,One pair
+107,One pair
+108,One pair
+109,Straight
+110,High card
+111,One pair
+112,One pair
+113,One pair
+114,One pair
+115,One pair
+116,Three of a kind
+117,Flush
+118,One pair
+119,One pair
+120,One pair
+121,Two pair
+122,Two pair
+123,One pair
+124,Straight
+125,One pair
+126,Straight
+127,One pair
+128,Straight
+129,Two pair
+130,One pair
+131,Straight
+132,Flush
+133,Two pair
+134,One pair
+135,One pair
+136,High card
+137,One pair
+138,One pair
+139,One pair
+140,Two pair
+141,Two pair
+142,One pair
+143,One pair
+144,Two pair
+145,High card
+146,Two pair
+147,High card
+148,One pair
+149,High card
+150,Straight
+151,One pair
+152,High card
+153,Two pair
+154,One pair
+155,High card
+156,One pair
+157,High card
+158,Two pair
+159,High card
+160,Two pair
+161,Flush
+162,Straight
+163,Two pair
+164,High card
+165,High card
+166,One pair
+167,One pair
+168,Two pair
+169,Two pair
+170,One pair
+171,One pair
+172,High card
+173,Two pair
+174,One pair
+175,One pair
+176,One pair
+177,One pair
+178,One pair
+179,One pair
+180,One pair
+181,One pair
+182,High card
+183,Three of a kind
+184,One pair
+185,Two pair
+186,Two pair
+187,High card
+188,Two pair
+189,High card
+190,One pair
+191,Full house
+192,High card
+193,One pair
+194,Three of a kind
+195,Two pair
+196,One pair
+197,Two pair
+198,One pair
+199,Two pair
+200,Two pair
+201,One pair
+202,Three of a kind
+203,Two pair
+204,One pair
+205,High card
+206,High card
+207,Three of a kind
+208,One pair
+209,Two pair
+210,Two pair
+211,Two pair
+212,Two pair
+213,Full house
+214,High card
+215,High card
+216,One pair
+217,Two pair
+218,One pair
+219,Three of a kind
+220,One pair
+221,One pair
+222,Three of a kind
+223,Two pair
+224,High card
+225,High card
+226,One pair
+227,Two pair
+228,High card
+229,One pair
+230,High card
+231,One pair
+232,One pair
+233,High card
+234,One pair
+235,One pair
+236,One pair
+237,High card
+238,One pair
+239,One pair
+240,One pair
+241,One pair
+242,One pair
+243,Two pair
+244,One pair
+245,Two pair
+246,One pair
+247,High card
+248,One pair
+249,One pair
+250,Two pair
+251,High card
+252,One pair
+253,High card
+254,High card
+255,Three of a kind
+256,Three of a kind
+257,Two pair
+258,One pair
+259,High card
+260,Two pair
+261,Two pair
+262,Straight
+263,One pair
+264,One pair
+265,Flush
+266,Full house
+267,Straight
+268,Two pair
+269,Straight
+270,Two pair
+271,High card
+272,One pair
+273,One pair
+274,Two pair
+275,Two pair
+276,High card
+277,Two pair
+278,High card
+279,High card
+280,High card
+281,Straight
+282,Three of a kind
+283,Two pair
+284,High card
+285,One pair
+286,One pair
+287,Two pair
+288,One pair
+289,Two pair
+290,One pair
+291,Flush
+292,One pair
+293,Two pair
+294,One pair
+295,One pair
+296,One pair
+297,One pair
+298,One pair
+299,Two pair
+300,Two pair
+301,Two pair
+302,High card
+303,One pair
+304,Two pair
+305,Two pair
+306,Full house
+307,High card
+308,One pair
+309,High card
+310,One pair
+311,Two pair
+312,One pair
+313,Two pair
+314,One pair
+315,One pair
+316,Two pair
+317,Two pair
+318,Two pair
+319,One pair
+320,Two pair
+321,Two pair
+322,Flush
+323,High card
+324,Two pair
+325,One pair
+326,One pair
+327,High card
+328,High card
+329,One pair
+330,One pair
+331,Two pair
+332,High card
+333,One pair
+334,Two pair
+335,Flush
+336,One pair
+337,Flush
+338,Two pair
+339,One pair
+340,One pair
+341,Two pair
+342,One pair
+343,One pair
+344,One pair
+345,Full house
+346,One pair
+347,Two pair
+348,High card
+349,One pair
+350,One pair
+351,Flush
+352,One pair
+353,One pair
+354,High card
+355,Two pair
+356,One pair
+357,Full house
+358,Two pair
+359,High card
+360,One pair
+361,One pair
+362,Two pair
+363,High card
+364,Full house
+365,Three of a kind
+366,One pair
+367,Two pair
+368,One pair
+369,Flush
+370,One pair
+371,One pair
+372,Two pair
+373,One pair
+374,Straight
+375,One pair
+376,High card
+377,Flush
+378,One pair
+379,Two pair
+380,One pair
+381,Three of a kind
+382,One pair
+383,Two pair
+384,One pair
+385,Straight
+386,One pair
+387,One pair
+388,Two pair
+389,One pair
+390,Straight
+391,Three of a kind
+392,One pair
+393,One pair
+394,Two pair
+395,Two pair
+396,One pair
+397,One pair
+398,One pair
+399,High card
+400,Two pair
+401,One pair
+402,One pair
+403,Three of a kind
+404,One pair
+405,One pair
+406,One pair
+407,Two pair
+408,Flush
+409,Two pair
+410,One pair
+411,High card
+412,Two pair
+413,One pair
+414,High card
+415,High card
+416,Two pair
+417,High card
+418,One pair
+419,Two pair
+420,One pair
+421,One pair
+422,One pair
+423,Two pair
+424,Two pair
+425,Two pair
+426,One pair
+427,One pair
+428,Flush
+429,High card
+430,One pair
+431,High card
+432,High card
+433,One pair
+434,High card
+435,Straight
+436,Full house
+437,One pair
+438,One pair
+439,Two pair
+440,Two pair
+441,Two pair
+442,Straight
+443,One pair
+444,High card
+445,One pair
+446,One pair
+447,One pair
+448,High card
+449,Three of a kind
+450,One pair
+451,Full house
+452,One pair
+453,High card
+454,Two pair
+455,One pair
+456,One pair
+457,Two pair
+458,One pair
+459,High card
+460,Two pair
+461,One pair
+462,High card
+463,High card
+464,Two pair
+465,Two pair
+466,Two pair
+467,One pair
+468,High card
+469,High card
+470,One pair
+471,Full house
+472,Two pair
+473,One pair
+474,One pair
+475,Two pair
+476,Flush
+477,One pair
+478,One pair
+479,One pair
+480,One pair
+481,One pair
+482,One pair
+483,Straight
+484,One pair
+485,High card
+486,High card
+487,Two pair
+488,Two pair
+489,One pair
+490,Two pair
+491,Full house
+492,High card
+493,One pair
+494,Two pair
+495,High card
+496,One pair
+497,Three of a kind
+498,Three of a kind
+499,High card
+500,One pair
+501,Flush
+502,One pair
+503,One pair
+504,One pair
+505,Two pair
+506,Two pair
+507,One pair
+508,High card
+509,Two pair
+510,One pair
+511,High card
+512,One pair
+513,One pair
+514,Straight
+515,One pair
+516,One pair
+517,High card
+518,High card
+519,Two pair
+520,Three of a kind
+521,High card
+522,Two pair
+523,High card
+524,One pair
+525,One pair
+526,Two pair
+527,One pair
+528,High card
+529,High card
+530,Two pair
+531,One pair
+532,Flush
+533,One pair
+534,Two pair
+535,Two pair
+536,One pair
+537,Two pair
+538,Two pair
+539,Two pair
+540,High card
+541,One pair
+542,High card
+543,Two pair
+544,One pair
+545,One pair
+546,Two pair
+547,Two pair
+548,One pair
+549,Three of a kind
+550,Two pair
+551,High card
+552,Two pair
+553,High card
+554,One pair
+555,High card
+556,High card
+557,Two pair
+558,Flush
+559,High card
+560,Flush
+561,One pair
+562,One pair
+563,Two pair
+564,High card
+565,High card
+566,High card
+567,One pair
+568,High card
+569,High card
+570,One pair
+571,One pair
+572,Two pair
+573,One pair
+574,Straight
+575,One pair
+576,Flush
+577,One pair
+578,High card
+579,Two pair
+580,High card
+581,One pair
+582,Straight
+583,High card
+584,One pair
+585,One pair
+586,High card
+587,One pair
+588,Two pair
+589,One pair
+590,One pair
+591,One pair
+592,Royal flush
+593,High card
+594,Two pair
+595,Straight
+596,One pair
+597,High card
+598,One pair
+599,One pair
+600,One pair
+601,One pair
+602,One pair
+603,One pair
+604,Two pair
+605,Three of a kind
+606,One pair
+607,Two pair
+608,Three of a kind
+609,High card
+610,One pair
+611,One pair
+612,Three of a kind
+613,One pair
+614,Two pair
+615,High card
+616,One pair
+617,High card
+618,Full house
+619,Three of a kind
+620,One pair
+621,High card
+622,One pair
+623,High card
+624,One pair
+625,One pair
+626,One pair
+627,One pair
+628,One pair
+629,One pair
+630,High card
+631,One pair
+632,One pair
+633,High card
+634,Two pair
+635,High card
+636,High card
+637,Straight
+638,One pair
+639,High card
+640,One pair
+641,One pair
+642,One pair
+643,One pair
+644,Full house
+645,One pair
+646,Flush
+647,Two pair
+648,One pair
+649,High card
+650,One pair
+651,Three of a kind
+652,Two pair
+653,One pair
+654,Full house
+655,Straight
+656,One pair
+657,Two pair
+658,Two pair
+659,Two pair
+660,Two pair
+661,Straight
+662,Straight flush
+663,One pair
+664,One pair
+665,One pair
+666,Two pair
+667,One pair
+668,One pair
+669,Two pair
+670,One pair
+671,One pair
+672,High card
+673,One pair
+674,High card
+675,Two pair
+676,One pair
+677,Two pair
+678,Two pair
+679,Two pair
+680,High card
+681,Three of a kind
+682,Two pair
+683,Two pair
+684,High card
+685,High card
+686,One pair
+687,One pair
+688,Two pair
+689,One pair
+690,Two pair
+691,Two pair
+692,One pair
+693,One pair
+694,One pair
+695,Two pair
+696,Two pair
+697,One pair
+698,One pair
+699,Two pair
+700,High card
+701,One pair
+702,Two pair
+703,One pair
+704,One pair
+705,One pair
+706,One pair
+707,Flush
+708,One pair
+709,One pair
+710,Full house
+711,Full house
+712,One pair
+713,One pair
+714,Full house
+715,High card
+716,Two pair
+717,Two pair
+718,High card
+719,Two pair
+720,Three of a kind
+721,High card
+722,One pair
+723,High card
+724,Two pair
+725,One pair
+726,High card
+727,Two pair
+728,Two pair
+729,High card
+730,Two pair
+731,One pair
+732,Three of a kind
+733,High card
+734,One pair
+735,Two pair
+736,Straight
+737,One pair
+738,One pair
+739,One pair
+740,Two pair
+741,Two pair
+742,Three of a kind
+743,Two pair
+744,One pair
+745,High card
+746,Two pair
+747,One pair
+748,High card
+749,One pair
+750,One pair
+751,One pair
+752,High card
+753,One pair
+754,Full house
+755,Two pair
+756,One pair
+757,Two pair
+758,High card
+759,One pair
+760,One pair
+761,Straight
+762,Straight
+763,One pair
+764,Full house
+765,Straight
+766,One pair
+767,Flush
+768,One pair
+769,Two pair
+770,One pair
+771,One pair
+772,One pair
+773,One pair
+774,One pair
+775,One pair
+776,Two pair
+777,One pair
+778,Two pair
+779,One pair
+780,High card
+781,Three of a kind
+782,One pair
+783,High card
+784,High card
+785,One pair
+786,One pair
+787,Three of a kind
+788,High card
+789,One pair
+790,Two pair
+791,One pair
+792,One pair
+793,Two pair
+794,Straight
+795,One pair
+796,One pair
+797,High card
+798,High card
+799,One pair
+800,One pair
+801,One pair
+802,One pair
+803,Two pair
+804,One pair
+805,One pair
+806,Two pair
+807,One pair
+808,One pair
+809,One pair
+810,Two pair
+811,Two pair
+812,Two pair
+813,Two pair
+814,One pair
+815,Full house
+816,One pair
+817,Two pair
+818,One pair
+819,High card
+820,High card
+821,High card
+822,One pair
+823,High card
+824,Flush
+825,One pair
+826,Two pair
+827,High card
+828,Two pair
+829,One pair
+830,One pair
+831,Two pair
+832,High card
+833,One pair
+834,Flush
+835,One pair
+836,Three of a kind
+837,One pair
+838,Two pair
+839,Three of a kind
+840,One pair
+841,One pair
+842,One pair
+843,One pair
+844,High card
+845,One pair
+846,High card
+847,One pair
+848,One pair
+849,One pair
+850,One pair
+851,One pair
+852,Three of a kind
+853,One pair
+854,High card
+855,Two pair
+856,One pair
+857,Two pair
+858,Two pair
+859,High card
+860,One pair
+861,Two pair
+862,Two pair
+863,Two pair
+864,One pair
+865,Three of a kind
+866,High card
+867,One pair
+868,One pair
+869,Two pair
+870,Straight
+871,One pair
+872,Full house
+873,Straight
+874,Two pair
+875,High card
+876,One pair
+877,High card
+878,One pair
+879,High card
+880,Two pair
+881,High card
+882,Two pair
+883,One pair
+884,One pair
+885,High card
+886,High card
+887,High card
+888,Two pair
+889,Straight
+890,One pair
+891,Two pair
+892,Two pair
+893,One pair
+894,Three of a kind
+895,High card
+896,Straight
+897,One pair
+898,One pair
+899,High card
+900,One pair
+901,High card
+902,One pair
+903,High card
+904,High card
+905,Two pair
+906,Two pair
+907,One pair
+908,Two pair
+909,One pair
+910,One pair
+911,One pair
+912,One pair
+913,Two pair
+914,One pair
+915,One pair
+916,High card
+917,One pair
+918,One pair
+919,Two pair
+920,One pair
+921,One pair
+922,One pair
+923,One pair
+924,Flush
+925,Three of a kind
+926,High card
+927,Two pair
+928,High card
+929,Flush
+930,Two pair
+931,One pair
+932,One pair
+933,One pair
+934,One pair
+935,One pair
+936,Two pair
+937,Flush
+938,High card
+939,Flush
+940,Flush
+941,High card
+942,One pair
+943,Two pair
+944,Straight
+945,One pair
+946,Three of a kind
+947,One pair
+948,One pair
+949,One pair
+950,High card
+951,Three of a kind
+952,One pair
+953,One pair
+954,Three of a kind
+955,Straight
+956,One pair
+957,Three of a kind
+958,Two pair
+959,One pair
+960,One pair
+961,Straight
+962,Two pair
+963,High card
+964,One pair
+965,High card
+966,Two pair
+967,One pair
+968,Straight flush
+969,One pair
+970,One pair
+971,One pair
+972,High card
+973,One pair
+974,High card
+975,One pair
+976,Two pair
+977,Two pair
+978,High card
+979,One pair
+980,One pair
+981,One pair
+982,One pair
+983,Two pair
+984,Two pair
+985,Two pair
+986,High card
+987,One pair
+988,One pair
+989,High card
+990,One pair
+991,Two pair
+992,One pair
+993,High card
+994,High card
+995,One pair
+996,One pair
+997,Flush
+998,One pair
+999,One pair
+1000,Flush
