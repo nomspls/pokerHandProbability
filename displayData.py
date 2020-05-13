@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
 import pandas as pd
 
-# plt.style.use('fivethirtyeight')
+plt.style.use('fivethirtyeight')
 
 df = pd.read_csv('handData.csv')
 

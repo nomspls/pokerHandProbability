@@ -115,29 +115,26 @@ def checkPoker(poker):
         return 'One pair'
     else:
         return 'High card'
-
-
-if __name__ == '__main__':
-    deck = Deck()
+    
+def generateCSV(filename, nrOutcomes):
+    # deck = Deck()
     outcomes = []
     
-    for i in range(1000):
+    for i in range(nrOutcomes):
         hand = set(deck.drawHand(2))
         deck.remover(hand) 
         river = set(deck.drawRiver(5))
         poker = river.union(hand)
         outcomes.append(checkPoker(poker))
-    #print('\n'.join(outcomes))
-            
+        
     df = pd.DataFrame(outcomes, columns=['outcome'])
     df.index.name = 'Tries'
     df.index += 1
-    df.to_csv('handData.csv')
-    
-    
-    
-    
-    # print("River:\n"+"\n".join(map(str, river)))
-    # print("\nYour hand:\n"+"\n".join(map(str, hand)))
+    df.to_csv(filename)
 
-    # print(checkPoker(poker))
+
+if __name__ == '__main__':
+    deck = Deck()
+
+    generateCSV('handData.csv', 10000)
+    
