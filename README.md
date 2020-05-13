@@ -5,6 +5,11 @@
 
 * for now poker.py only purpose is to generate a csv file of data, but it has everything to make it into a proper game
   
+  
+## Results
+
+![](plot.png)
+
 ## Future
 
   * Can be branched to a 'bingo' poker game with some additional lines of code or a full poker game
