@@ -137,4 +137,4 @@ if __name__ == '__main__':
     deck = Deck()
 
     generateCSV('handData.csv', 10000)
-    
+     
